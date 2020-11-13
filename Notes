@@ -1,0 +1,16 @@
+CSS NOTES
+
+content = inside element border
+margin = Space outside element border
+padding = Space within the element border
+rem =
+px =
+em =
+% = Used within containers
+box-sizing + border-box = takes everything in to have proper spacing
+static = default, renders in order of document
+relative = relative to its normal position
+absolute = 
+fixed = will always be in same position 
+initial = set to default value
+inherit = will inherit property of parent element
